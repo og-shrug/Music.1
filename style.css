@@ -1,0 +1,26 @@
+.TOP_PART{
+    width:100%;
+    margin-top: 0;
+    color:black;
+    font-weight:bolder;
+    font-size:20px;
+}
+body{
+    background-size: contain;
+}
+.red_buttons{
+    background-color: red;
+    color:white;
+    width:fit-content;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-size:15px;
+    margin:5px;
+    padding: 5px;
+
+}
+canvas{
+border: 10px solid white;
+position: fixed;
+
+}
